@@ -1,7 +1,7 @@
-# ln_kavalan
+# ln_kavalan 噶瑪蘭
 
 
-## What Kavalan
+## About Kavalan
 
 An endangered language in Taiwan, also known as:
 
@@ -12,7 +12,7 @@ https://www.patreon.com/home or paid my service in JChung.xyz. Thanks.
 
 Please let me know moare about what can I do for the community of this language and/or this project.
 
-## Resources
+## Resources 資源
 
 
 http://web.klokah.tw/
